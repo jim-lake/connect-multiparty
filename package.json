@@ -1,6 +1,6 @@
 {
   "name": "connect-multiparty",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "multipart parsing middleware for connect using multiparty",
   "author": "Andrew Kelley <superjoe30@gmail.com>",
   "contributors": [
@@ -10,7 +10,7 @@
   "repository": "expressjs/connect-multiparty",
   "dependencies": {
     "http-errors": "~1.7.3",
-    "multiparty": "~4.2.1",
+    "multiparty": "~4.2.2",
     "on-finished": "~2.3.0",
     "qs": "~6.7.0",
     "type-is": "~1.6.18"
